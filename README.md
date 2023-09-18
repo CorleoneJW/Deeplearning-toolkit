@@ -1,6 +1,5 @@
 # Deeplearning-toolkit
-
-## Wheels for deep-learning process.
+This is the repository of wheels related to deeplearning visualization and pre-processing and so on.
 
 ## List of wheels:
 1. Bar chart
